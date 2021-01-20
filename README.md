@@ -6,3 +6,8 @@ Once hit, the length of the snake increases
 and a new target is randomly displayed in the window.
 The goal of the game is to increase the length of the snake without dying.
 A snake dies by either running off the window or making contact with its own body. 
+
+
+Neccessary Packages..
+- graphics
+- random
